@@ -12,10 +12,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-vendor
-/vendor
-vendor/*
-/vendor/**/.git
 storage
 
 server/node_modules
